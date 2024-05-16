@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101974869089",
+    "project_id": "bm-complaint-app",
+    "storage_bucket": "bm-complaint-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101974869089:android:3fab5e3cdd3c9d801a1620",
+        "android_client_info": {
+          "package_name": "com.example.bm_complaint_portal_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7oJJVwZ4H3PoCXDfqfbFWH46j9fpKQdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
